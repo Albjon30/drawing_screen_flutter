@@ -15,3 +15,5 @@ CustomPainter
 shines in applications that require a high degree of customization in the UI, such
 as games, data visualization tools, or any app that wants to stand out with a
 unique visual identity
+
+![Screenshot_20250116_162134](https://github.com/user-attachments/assets/8bd4f2d1-2054-454f-8cf1-0dbc19ae4777)
